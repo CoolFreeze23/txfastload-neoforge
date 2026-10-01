@@ -1,6 +1,6 @@
 # TxFastLoad for NeoForge 1.21.1
 
-A NeoForge 1.21.1 port of [TxFastLoad](https://modrinth.com/mod/txfastload) by txslx. The original is a Fabric mod for Minecraft 1.21.11 and 26.1.2. This port is published with the author's permission, and all credit for the idea and the original mod goes to txslx.
+A NeoForge 1.21.1 port of [TxFastLoad](https://modrinth.com/mod/txfastload) by txslx. The original is a Fabric mod for Minecraft 1.21.11 and 26.1.2. All credit for the idea and the original mod goes to txslx.
 
 Client only. Don't put it on a dedicated server.
 
@@ -43,4 +43,4 @@ Don't run it together with QuickPack, Remove Reloading Screen or Force Close Loa
 
 ## Credits and licence
 
-TxFastLoad is made by txslx: [modrinth.com/mod/txfastload](https://modrinth.com/mod/txfastload). All rights reserved. This NeoForge port is shared with the author's permission; please ask txslx before re-uploading it anywhere else.
+TxFastLoad is made by txslx: [modrinth.com/mod/txfastload](https://modrinth.com/mod/txfastload). All rights reserved. Please ask txslx before re-uploading it anywhere else.
